@@ -37,4 +37,22 @@
 
 //for each using function 
 
-let num=
+let num=[1,2,3,4,5]
+
+num.forEach(function(item){
+   console.log(item);
+   
+})
+
+
+
+console.log("------------------------");
+
+num.forEach((index,value) =>{
+   console.log(value,index);
+   
+})
+
+
+//filter method :-create a new array that containing  new elemnt that statisfied the condition
+
