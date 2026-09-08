@@ -56,3 +56,4 @@ num.forEach((index,value) =>{
 
 //filter method :-create a new array that containing  new elemnt that statisfied the condition
 
+
